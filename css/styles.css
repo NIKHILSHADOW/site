@@ -1,0 +1,128 @@
+body {
+	background-color: #AAE3E2;
+	margin: 0px;
+	text-align: center;
+	font-size: 1.6rem;
+}
+
+.header {
+	margin: 20px auto;
+	position: fixed;
+	top: 4%;
+/*	height : 30px;*/
+}
+
+h1 {
+	color: #66BFBF;
+}
+
+h2 {
+	color: #66BFBF;
+	font-weight: normal;
+}
+
+h3 {
+	color: #11999E;
+}
+
+.top-container {
+	background-color : #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+	margin-bottom: 20px;
+}
+
+.middle-container {
+	background-color: #AAE3E2;
+}
+
+.bottom-container {
+	background-color: #AAE3E2;
+	margin: 50px auto;
+}
+
+.footer {
+	background-color: #66BFBF;
+/*	position: fixed;*/
+	bottom: 0%;
+	width: 100%;
+}
+
+.top-cloud {
+	position: absolute;
+	top : 10%;
+	right : 10%;
+}
+
+.skill-row {
+	clear: left;
+	width: 40%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 1;
+	padding-bottom: 20px;
+}
+
+
+.bottom-cloud {
+	position: absolute;
+	left: 10%;
+}
+
+.footer-link {
+	color: #11999E;
+	height: 40px;
+	margin: 0px 5px 0px 5px;
+	padding: 10px 5px 10px 5px;
+	text-decoration: none;
+}
+
+.code-image {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.chilli-image {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+	clear: right;
+}
+
+.copy-right {
+	color: #EAF6F6;
+	margin: 0px;
+	font-size: 1rem;
+}
+
+hr {
+	width: 5%;
+	border: dotted 6px;
+	color: grey;
+	border-bottom: none;
+	margin: 50px auto;
+}
+
+a:hover {
+	color: #EAF6F6;
+}
+
+.btn {
+/*	background-color: #009EFF;*/
+	width: 5%;
+	height: 2%;
+	color: #11999E;
+	text-decoration: none;
+	border-radius: 8px;
+}
+
+.btn:hover {
+	background-color: blue;
+}
+
+.header-link {
+	text-decoration: none;
+/*	color: #11999E;*/
+	background-color: #11999E;
+}
